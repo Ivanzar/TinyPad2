@@ -1,0 +1,27 @@
+# TyniPad
+The simple multi code editor.
+![GitHub Logo](/images/example-gui.png)
+#Syntax list:
+* ACTIONSCRIPT;
+* ASSEMBLER_X86;
+* BBCODE;
+* C;
+* CLOJURE;
+* C++;
+* C#;
+* CSS;
+* D;
+* DART;
+* DELPHI;
+* DTD;
+* FORTRAN;
+* GROOVY;
+* HOSTS;
+* HOSTS;
+* HTML;
+* JAVA;
+* JAVASCRIPT;
+* JSHINTRC;
+* JSON;
+* JSP;
+* LUA;
